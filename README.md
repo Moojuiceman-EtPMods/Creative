@@ -1,4 +1,4 @@
-# TeleportMod
+# Creative
 
 This is a mod for the game Escape The Pacific by Gamers4Gamers Team. You can get it here: https://store.steampowered.com/app/655290/Escape_The_Pacific/
 
@@ -25,6 +25,6 @@ I try to not affect saves with my mods, but taking backups is recommended. This 
  
 #### Configuration
 
-Mod options are stored in BepInEx\config\<Modname>.cfg
+Mod options are stored in BepInEx\config\\\<Modname>.cfg
 
 * Finish Blueprint Key (Default I) - Keybind to finish blueprints
